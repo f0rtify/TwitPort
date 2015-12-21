@@ -35,4 +35,4 @@ Speak to him on XMPP at ant-man@jabber.ccc.de
 
 I am not the owner, simply a humble dev.
 
-If you really want to contact me, DM me @team_antiphish
+If you really want to contact me, DM me @vacbans
