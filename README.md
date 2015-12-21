@@ -1,5 +1,5 @@
 # TwitPort
-TwitPort was originally developed by Ant-Man @AntMan1337 -- Active development by @team_antiphish
+TwitPort was originally developed by Ant-Man @AntMan1337 -- Active development by @vacbans
 
 # Okay, WTF is TwitPort?
 TwitPort is a mass reporter that uses lists of targets and automatically reports them.
