@@ -6,7 +6,8 @@ TwitPort is a mass reporter that uses lists of targets and automatically reports
 
 # What do I do with it?
 
-Report assholes and try to break [this record](http://i.imgur.com/rODdV4q.png)
+Report assholes and try to break this record:
+![alt tag](http://i.imgur.com/rODdV4q.png)
 
 # Fair enough, HOW DO I INSTALL IT?
 1) Click the official link at the top of this page.
