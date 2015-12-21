@@ -4,6 +4,10 @@ TwitPort was developed by Ant-Man @AntMan1337
 # Okay, WTF is TwitPort?
 TwitPort is a mass reporter that uses lists of targets and automatically reports them.
 
+# What do I do with it?
+
+Report assholes and try to break [this record](http://i.imgur.com/rODdV4q.png)
+
 # Fair enough, HOW DO I INSTALL IT?
 1) Click the official link at the top of this page.
 2) Go to chrome://extensions
