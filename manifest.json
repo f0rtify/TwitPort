@@ -2,10 +2,10 @@
   "name": "TwitPort by AntMan & vacbans",
   "version": "0.0.3",
   "manifest_version": 2,
-  "description": "Reports twitter accounts",
+  "description": "Reports twitter accounts on a list. Endorsed by Pseudo.",
   "browser_action" : {
     "default_icon": "unnamed.png",
-    "default_title": "Click here to shoot the canon!"
+    "default_title": "Fire teh lazerrr!11!"
   },
   "background" : {
     "scripts": ["background.js"],
