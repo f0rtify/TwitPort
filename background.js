@@ -12,7 +12,7 @@ chrome.runtime.onMessage.addListener(function (message, sender, senderResponse) 
          var opt = {
             type: "basic",
             title: "TwitPort",
-            message: "Server unavailable at the moment, will try again in 10 seconds. if you see this error more the couple of times, shutdown the app and try again later.",
+            message: "TwitPort is currently having issues connecting to the servers. Please try again in 10 seconds.",
             iconUrl: "unnamed.png"
         };
         try {
