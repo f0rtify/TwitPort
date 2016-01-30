@@ -1,8 +1,8 @@
 {
-  "name": "TwitPort by AntMan & vacbans",
-  "version": "0.0.3",
+  "name": "TwitPort by AntMan1337 & FTPSkid",
+  "version": "0.0.5",
   "manifest_version": 2,
-  "description": "Reports twitter accounts on a list. Endorsed by Pseudo.",
+  "description": "Auto reports accounts on a list",
   "browser_action" : {
     "default_icon": "unnamed.png",
     "default_title": "Fire teh lazerrr!11!"
