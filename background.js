@@ -58,7 +58,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     chrome.storage.sync.get('targetlist', function (res) {
         if(res.targetlist){
             chrome.tabs.create({ url: res.targetlist })
-            window.alert("Do not close newly opened tab, it is reporting.")
+            window.alert("Do not close this new tab. You may swap to other tabs though.")
         }
     })
 });
