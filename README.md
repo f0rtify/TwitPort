@@ -4,4 +4,7 @@ We have restarted development.
 
 Developed by @antman1337 @ftpskid
 
-Use official download link as compiling from source may cause errors.
+You may now compile from source if you are insecure.
+
+
+http://goo.gl/I4BZbQ -- Official download link
