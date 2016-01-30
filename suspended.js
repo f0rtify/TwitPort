@@ -1,4 +1,4 @@
-document.querySelector('.error-page h1').innerHTML = "Pleae wait, will report that this account is susupended and then will redirect to another target..."
+document.querySelector('.error-page h1').innerHTML = "Just a minute. Telling the server that this account is suspended."
 chrome.storage.sync.get('targetlist', function (res0) {
 	chrome.storage.sync.get('anonuser', function (res) {
 		if(!res.anonuser){
