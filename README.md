@@ -2,6 +2,8 @@
 
 # Current release
 
+DL: http://goo.gl/nsRVX7
+
 Version 0.05 Stable
 
 Compiling is also 0.05 Stable
@@ -31,7 +33,7 @@ TwitPort is a tool designed to report users automatically on a specific list, if
 Nope. Download the CRX, drag it into chrome and just click the icon. Leave the tab and it will report away.
 
 # Where can I download it?
-http://goo.gl/I4BZbQ -- Official download link
+http://goo.gl/nsRVX7 -- Official download link
 
 # I need help
 
