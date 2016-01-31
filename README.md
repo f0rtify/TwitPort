@@ -1,5 +1,24 @@
 # TwitPort
 
+# Current release
+
+Version 0.05 Stable (current download link)
+
+If you compile from source it will be 0.06 beta
+
+
+# Change list
+
++ Fixed some bugs
+
++ Added a lists section (no lists currently, dm me some)
+
+- Removed some errors
+
+
+
+
+
 # What is TwitPort?
 
 TwitPort is a tool designed to report users automatically on a specific list, if you have no list -- it will use anonops targets
