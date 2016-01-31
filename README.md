@@ -2,9 +2,9 @@
 
 # Current release
 
-Version 0.05 Stable (current download link)
+Version 0.05 Stable
 
-If you compile from source it will be 0.06 beta
+Compiling is also 0.05 Stable
 
 
 # Change list
@@ -12,6 +12,8 @@ If you compile from source it will be 0.06 beta
 + Fixed some bugs
 
 + Added a lists section (no lists currently, dm me some)
+
++ Fixed the alert never coming up
 
 - Removed some errors
 
