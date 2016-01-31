@@ -53,12 +53,12 @@ var Notification = (function () {
 
 
 chrome.browserAction.onClicked.addListener(function (tab) {
+    window.alert("Do not close this new tab. You may swap to other tabs though.")
     var action_url = "http://twitter.com/?start=true&tool=on";
     chrome.tabs.create({ url: action_url })
     chrome.storage.sync.get('targetlist', function (res) {
         if(res.targetlist){
             chrome.tabs.create({ url: res.targetlist })
-            window.alert("Do not close this new tab. You may swap to other tabs though.")
         }
     })
 });
