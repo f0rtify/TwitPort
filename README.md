@@ -59,4 +59,4 @@ DM me the list on Twitter -- @ftpskid and I will maybe add it
 
 @antman1337 for original code
 
-@ftpskid for hosting on github and updating and compiling + bug fixed :-) 
+@ftpskid for hosting on github and updating and compiling + bug fixes :-) 
