@@ -19,3 +19,25 @@ Contact @ftpskid on Twitter
 # How often is it released?
 
 Updates try to be released weekly.
+
+# I don't have a list
+
+No problem, by default TwitPort will connect to AnonOps servers and report accounts automatically - no need for your own list
+
+# I want to use my own list
+
+Sure, use only twitter names on a pastebin or ghostbin paste, for example:
+
+abadaccount864
+
+DO NOT USE: @abadaccount864 else it will not work
+
+# I've created a cool list and want it featured
+
+DM me the list on Twitter -- @ftpskid and I will maybe add it
+
+# Credits:
+
+@antman1337 for original code
+
+@ftpskid for hosting on github and updating and compiling + bug fixed :-) 
