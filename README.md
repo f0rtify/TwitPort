@@ -1,5 +1,7 @@
 # TwitPort
 
+# No update this week.
+
 # Current release
 
 DL: http://goo.gl/nsRVX7
