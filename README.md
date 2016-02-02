@@ -1,6 +1,8 @@
 # TwitPort
 
-# No update this week.
+# News
+
+02/01/16 - No update to be released this week, current version is stable
 
 # Current release
 
@@ -16,6 +18,8 @@ Compiling is also 0.05 Stable
 + Fixed some bugs
 
 + Added a lists section (no lists currently, dm me some)
+
++ Added a text box to change to custom list
 
 + Fixed the alert never coming up
 
