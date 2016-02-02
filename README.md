@@ -1,8 +1,17 @@
-# TwitPort
+# TwitPort 0.05
+
+
+# Known bugs
+
+Visiting a page of someone who is suspended automatically starts tool
+
+Opening TwitPort in Winrar causes a crash in some versions (fixing)
+
+Random crashes on Chromium OS
 
 # News
 
-02/01/16 - No update to be released this week, current version is stable
+02/01/16 - Download latest update for all the newest features
 
 # Current release
 
