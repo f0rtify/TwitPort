@@ -3,7 +3,7 @@
 
 # Known bugs
 
-Visiting a page of someone who is suspended automatically starts tool
+Visiting the page of someone who is suspended automatically starts tool
 
 Opening TwitPort in Winrar causes a crash in some versions (fixing)
 
