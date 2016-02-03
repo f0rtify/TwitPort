@@ -76,6 +76,6 @@ DM me the list on Twitter -- @ftpskid and I will maybe add it
 
 # Credits:
 
-@antman1337 for original code
+@antman1337 for developing
 
-@ftpskid for hosting on github and updating and compiling + bug fixes :-) 
+@ftpskid for also developing and updating
