@@ -3,11 +3,11 @@
 
 # Known bugs
 
-Visiting the page of someone who is suspended automatically starts tool
+Visiting the page of someone who is suspended automatically starts tool (fixing)
 
-Opening TwitPort in Winrar causes a crash in some versions (fixing)
+Opening TwitPort in Winrar causes a crash in some versions (solved)
 
-Random crashes on Chromium OS
+Random crashes on Chromium OS (solved. Some twitter extensions conflict causing crash)
 
 # News
 
@@ -52,7 +52,7 @@ http://goo.gl/nsRVX7 -- Official download link
 
 # I need help
 
-Contact @ftpskid on Twitter
+Contact @twitporttool on Twitter
 
 # How often is it released?
 
