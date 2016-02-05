@@ -8,13 +8,14 @@ On the 5th of February 2016, TwitPort stopped active development.
 
 ;'(
 
-# Why
+# Why?
 
-There really isn't need for something such as it anymore and I am off to work on better things.
+Because I am busy and because it's stable asf and doesn't need updating.
+
 
 # Will there be any more updates?
 
-Probably no
+Probably not
 
 # Special thanks
 
