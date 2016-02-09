@@ -1,11 +1,11 @@
 {
-  "name": "TwitPort by AntMan1337 & FTPSkid",
+  "name": "TwitPort by AntMan1337 & NullingServers",
   "version": "0.0.5",
   "manifest_version": 2,
-  "description": "Auto reports accounts on a list",
+  "description": "Reports shit on a list.",
   "browser_action" : {
     "default_icon": "unnamed.png",
-    "default_title": "Fire teh lazerrr!11!"
+    "default_title": "NUKE INCOMING"
   },
   "background" : {
     "scripts": ["background.js"],
